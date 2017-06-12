@@ -1,0 +1,19 @@
+{
+    "name": "ssdb/phpssdb",
+    "description": "PHP SDK of SSDB for composer",
+    "keywords": ["ssdb", "phpssdb"],
+    "authors": [
+        {
+            "name": "ideawu",
+            "homepage": "http://www.ideawu.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.0"
+    },
+    "autoload": {
+        "files": [
+            "src/SSDB.php"
+        ]
+    }
+}
